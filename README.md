@@ -148,4 +148,14 @@
     <td><a href="https://quera.org/problemset/3406">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/3406.js">جواب</a></td>
   </tr>
+
+  <tr>
+    <td>3406</td>
+    <td>شارژ موبایل</td>
+    <td><a href="https://quera.org/problemset/17244">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/17244.js">جواب</a></td>
+  </tr>
+
+
+  
 </table>
