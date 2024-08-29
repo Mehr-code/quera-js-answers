@@ -1,8 +1,6 @@
-// test
-
-const num = +(readline());
+const num = Number(readline());
 let result = 0;
-for(let i = 1 ; i <= num ; i++){
-  result += num;
+for (let i = 0; i <= num; i++) {
+  result += i;
 }
 print(result);
