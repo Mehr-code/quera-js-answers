@@ -155,6 +155,12 @@
     <td><a href="https://quera.org/problemset/17244">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/17244.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>615</td>
+    <td>تاریخ تولد</td>
+    <td><a href="https://quera.org/problemset/615">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/615.js">جواب</a></td>
+  </tr>
 
 
   
