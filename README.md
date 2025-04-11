@@ -167,6 +167,12 @@
     <td><a href="https://quera.org/problemset/28947">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/28947.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>281772</td>
+    <td>بی میم ابولفضل</td>
+    <td><a href="https://quera.org/problemset/281772">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/281772.js">جواب</a></td>
+  </tr>
 
 
   
