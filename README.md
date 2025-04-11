@@ -161,6 +161,12 @@
     <td><a href="https://quera.org/problemset/615">سوال</a></td>
     <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/615.js">جواب</a></td>
   </tr>
+  <tr>
+    <td>28947</td>
+    <td>ام سین</td>
+    <td><a href="https://quera.org/problemset/28947">سوال</a></td>
+    <td><a href="https://github.com/Mehr-code/Quera-js-answers/blob/main/SRC/28947.js">جواب</a></td>
+  </tr>
 
 
   
